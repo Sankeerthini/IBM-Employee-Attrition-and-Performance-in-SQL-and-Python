@@ -6,3 +6,29 @@ This project analyzes employee attrition and performance within IBM's HR dataset
 
 
 ![Dashboard Overview](https://drive.google.com/uc?export=view&id=1Lud8aYo-Fl4IVnkvmaoqQbaOvzCgtzpK)
+
+--
+
+![Dashboard Overview](https://drive.google.com/uc?export=view&id=1q2I-yeS8rNhAAhYeLk--D3HnSFYnYrT7)
+
+--
+
+![Dashboard Overview](https://drive.google.com/uc?export=view&id=1eexMbcOXGnuRjxIHYn87Gx9ziI6nHwfG)
+
+--
+
+![Dashboard Overview](https://drive.google.com/uc?export=view&id=1vUJ8X-UaFtBaW8OJkBUDBwGWckxcLXej)
+
+--
+
+![Dashboard Overview](https://drive.google.com/uc?export=view&id=1ZbQwOIUI8aBNTooVW3Uef8f-N19IxtjB)
+
+--
+
+![Dashboard Overview](https://drive.google.com/uc?export=view&id=17mCgzaDXd2Gw-VZg55reR_dMB0zAObGo)
+
+--
+
+![Dashboard Overview](https://drive.google.com/uc?export=view&id=1tJWGaYlSlvsxRTtRCTmb6UHnW0XE5xRI)
+
+--
