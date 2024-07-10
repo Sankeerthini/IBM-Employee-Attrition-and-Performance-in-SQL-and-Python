@@ -1,4 +1,4 @@
-# IBM HR Analytics Employee Attrition Performance
+# IBM HR Analytics Employee Attrition Performance in SQL & Python
 
 ## Project Overview
 
